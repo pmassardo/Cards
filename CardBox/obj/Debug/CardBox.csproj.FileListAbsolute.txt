@@ -1,0 +1,28 @@
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\bin\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.CardDisplay.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Assignment 10\CardBox\CardBox\obj\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.CardDisplay.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.CardDisplay.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardBox\obj\Debug\CardBox.pdb
