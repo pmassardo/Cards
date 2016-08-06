@@ -1,0 +1,14 @@
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\CardLibrary\CardLibrary\obj\Debug\CardLibrary.pdb

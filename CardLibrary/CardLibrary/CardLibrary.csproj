@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3D4DFDFD-6DAB-4CED-9B02-199ABDD4EED9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CardLibrary</RootNamespace>
+    <AssemblyName>CardLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="Hand.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GenericCardLibrary.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CB.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsAce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsEight.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsFive.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsFour.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsJack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsKing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsNine.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsQueen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsSeven.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsSix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsTen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsThree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClubsTwo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsAce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsEight.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsFive.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsFour.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsJack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsKing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsNine.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsQueen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsSeven.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsSix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsTen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsThree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiamondsTwo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsAce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsEight.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsFive.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsFour.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsJack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsKing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsNine.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsQueen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsSeven.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsSix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsTen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsThree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeartsTwo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesAce.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesEight.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesFive.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesFour.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesJack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesKing.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesNine.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesQueen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesSeven.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesSix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesTen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesThree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpadesTwo.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
