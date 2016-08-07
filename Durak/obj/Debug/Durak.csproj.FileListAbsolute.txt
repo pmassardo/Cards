@@ -1,0 +1,32 @@
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.exe.config
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.exe
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.exe
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.frmNewGame.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\DurakLibrary.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\DurakLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.frmDurakGame.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.exe.config
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.exe
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.exe
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\Durak.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardBox.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardBox.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\bin\Debug\DurakLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.frmNewGame.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.frmDurakGame.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\DurakLibrary.Properties.Resources.resources
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\Durak\obj\Debug\Durak.csproj.GenerateResource.Cache
