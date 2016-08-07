@@ -1,0 +1,14 @@
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\DurakLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\A Winter 2015\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\DurakLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\CardLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.dll
+C:\Users\Paolo\Documents\Data\A School\A Durham\2015 Winter\DNET\Labs\Final Project\Durak\DurakLibrary\obj\Debug\DurakLibrary.pdb
